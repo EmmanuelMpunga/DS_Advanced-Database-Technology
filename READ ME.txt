@@ -15,7 +15,7 @@ Cascade deletes
 
 Data manipulation and reporting
 
-Database Schema
+Database Schema Public
 Tables
 
 Author (AuthorID, FullName, Nationality, BirthYear)
@@ -139,5 +139,6 @@ Create tables → Insert data → Run queries/triggers/views.
 Modify sample data or extend the schema for testing.
 
 License
+
 
 This project is provided for academic and learning purposes.
